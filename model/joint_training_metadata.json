@@ -1,0 +1,16 @@
+{
+  "project_names": [
+    "LunaTranslator",
+    "MaaAssistantArknights",
+    "wiliwili",
+    "whisper.cpp"
+  ],
+  "feature_dim": 4109,
+  "train_samples": 54585,
+  "val_samples": 18196,
+  "test_samples": 18198,
+  "val_auc_roc": 0.9772348199372994,
+  "val_auc_pr": 0.9476064411810381,
+  "test_auc_roc": 0.9770692402939298,
+  "test_auc_pr": 0.94676157289679
+}
